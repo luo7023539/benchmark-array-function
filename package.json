@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luo7023539/benchmark-array-function/issues"
   },
-  "homepage": "https://github.com/luo7023539/benchmark-array-function#readme"
+  "homepage": "https://github.com/luo7023539/benchmark-array-function#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
 }
