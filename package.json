@@ -1,0 +1,20 @@
+{
+  "name": "benchmark-array-function",
+  "version": "1.0.0",
+  "description": "benchmark array function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luo7023539/benchmark-array-function.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luo7023539/benchmark-array-function/issues"
+  },
+  "homepage": "https://github.com/luo7023539/benchmark-array-function#readme"
+}
