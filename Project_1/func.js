@@ -8,18 +8,18 @@ let arr_2 = new Array(10000).fill(0)
 
 module.exports = {
   splice(num) {
-    arr_1.splice(0)
-    arr_1.splice(0)
-    arr_1.splice(0)
-    arr_1.splice(0)
-    arr_1.splice(0)
+    arr_1.splice(9000,1)
+    arr_1.splice(9000,1)
+    arr_1.splice(9000,1)
+    arr_1.splice(9000,1)
+    arr_1.splice(9000,1)
   },
   remove() {
-    arr_2.remove(0)
-    arr_2.remove(0)
-    arr_2.remove(0)
-    arr_2.remove(0)
-    arr_2.remove(0)
+    arr_2.remove(9000)
+    arr_2.remove(9000)
+    arr_2.remove(9000)
+    arr_2.remove(9000)
+    arr_2.remove(9000)
   }
 }
 
